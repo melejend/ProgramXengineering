@@ -1,2 +1,1 @@
-# laba1
-#gdfmfdgdsfml;gmlk;sdfmkg
+# РЕПОЗИТОРИЙ ДЛЯ ПРОГРАММНОЙ ИНЖЕНЕРИИ
